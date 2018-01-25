@@ -1,0 +1,22 @@
+{
+  "name": "tarjeta_credito_valida",
+  "version": "1.0.0",
+  "description": "__Programa:__ _validación de Tarjeta de crédito_ __Entrada:__ _Número del usuario_ __Salida:__ _Verificación de tarjeta válida_",
+  "main": "tarjeta_credito_valida.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilabelen/tarjeta_credito_valida.git"
+  },
+  "author": "Camila Cornejos <ccornejoss@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilabelen/tarjeta_credito_valida/issues"
+  },
+  "homepage": "https://github.com/camilabelen/tarjeta_credito_valida#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
